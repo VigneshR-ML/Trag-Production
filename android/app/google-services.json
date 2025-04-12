@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "217679865864",
+    "project_id": "trag-efc4c",
+    "storage_bucket": "trag-efc4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217679865864:android:6e8ae2e9afb3271dddc9bd",
+        "android_client_info": {
+          "package_name": "com.ecommerce.trag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217679865864-igk4ukgm22gvehhsg0kt1epmv0rlgfp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqENFD_ZZN7FuM4ULxo9l_eEvtD475kLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217679865864-igk4ukgm22gvehhsg0kt1epmv0rlgfp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217679865864-i1135t53lb1p2q4j4rv4ljckfc22e2tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
