@@ -47,31 +47,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDn8m6MHU3ZXuf817KtbL8aYtp3w900aWk',
-    appId: '1:217679865864:web:7cf99b31fc60e456ddc9bd',
-    messagingSenderId: '217679865864',
-    projectId: 'trag-efc4c',
-    authDomain: 'trag-efc4c.firebaseapp.com',
-    storageBucket: 'trag-efc4c.firebasestorage.app',
-    measurementId: 'G-J8N79Y9Y57',
+    apiKey: '**********************************',
+    appId: '****************',
+    messagingSenderId: '****',
+    projectId: '*************',
+    authDomain: '**************',
+    storageBucket: '*************',
+    measurementId: '******',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBqENFD_ZZN7FuM4ULxo9l_eEvtD475kLY',
-    appId: '1:217679865864:android:6e8ae2e9afb3271dddc9bd',
-    messagingSenderId: '217679865864',
-    projectId: 'trag-efc4c',
-    storageBucket: 'trag-efc4c.firebasestorage.app',
+    apiKey: '*************',
+    appId: '********************',
+    messagingSenderId: '*************',
+    projectId: '*************',
+    storageBucket: '*************',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB8AWT4FYhMciKFGaXxQMwrMFXFDuxQnbQ',
-    appId: '1:217679865864:ios:dafac4455295cd94ddc9bd',
-    messagingSenderId: '217679865864',
-    projectId: 'trag-efc4c',
-    storageBucket: 'trag-efc4c.firebasestorage.app',
-    iosClientId: '217679865864-qga9f1bttdu3269fn7s06pgl1ao4360u.apps.googleusercontent.com',
-    iosBundleId: 'com.ecommerce.trag',
+    apiKey: '*************',
+    appId: '*************',
+    messagingSenderId: '*************',
+    projectId: '*************',
+    storageBucket: '*************',
+    iosClientId: '*************',
+    iosBundleId: '*************',
   );
 
 }
